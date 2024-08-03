@@ -2,4 +2,4 @@
 
 &nbsp;
 
-![cert](certificate.pdf)
+![cert](Certificate.pdf)
