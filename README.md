@@ -3,7 +3,14 @@
 &nbsp;
 
 ![cert](certificate.png)
+---
 
+## QUICK LINK
+### Data Source: [divvy_tripdata](https://divvy-tripdata.s3.amazonaws.com/index.html)
+### SQL Codes
+- [Preparing / Merging Data](https://github.com/playingwithdata-and/Google-Data-Analytics/blob/main/Prepare%20Phase.sql) 
+- [Manipulate / Processing data](https://github.com/playingwithdata-and/Google-Data-Analytics/blob/main/Process%20Phase.sql)
+- [Analyze Data](https://github.com/playingwithdata-and/Google-Data-Analytics/blob/main/Analysis%20Phase.sql) 
 ---
 
 ## Skills You'll Develop
@@ -72,3 +79,12 @@ You will gain competencies in data cleaning, problem-solving, critical thinking,
   <summary>8. Google Data Analytics Capstone: Complete a Case Study</summary>
   <p>Apply your skills in a real-world scenario by completing a case study. Gain practical experience in all stages of data analysis, from data collection to presenting your findings. This final project will help you build a portfolio and prepare for job interviews.</p>
 </details>
+
+## Tools used in Analysis
+- Data Cleaning: Microsoft Excel 
+- Data Analysis: Microsft SQL Server
+
+## Prepare Phase:
+- The dataset used for this project is public data provided by Motivate International Inc. It consists of monthly files covering the period from January 2024 to June 2024. 
+- Each file within the dataset contains 13 columns related to the bike rides. 
+- These columns provide detailed information about each ride, including the ride ID, rideable type, start and end station ID’s and locations, coordinates, and membership type.
